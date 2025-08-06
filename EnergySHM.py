@@ -1,5 +1,7 @@
 from pylab import *
 
+#Studies energy in simple harmonic motion.
+
 mass=1.0  #the mass has not been mentiond anywhere, I take it to be a unit mass.
 g=9.8
 l=9.8
